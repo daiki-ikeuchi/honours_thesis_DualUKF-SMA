@@ -1,6 +1,6 @@
-## honours_thesis_DualUKF-SMA
-# This repository contains the Matlab and Simulink files for Honours thesis completed at the University of Sydney.
-# The thesis is available from https://www.researchgate.net/publication/336730812_Unscented_Kalman_Filter_based_Self-sensing_Control_of_Shape_Memory_Alloy_Actuator
+# honours_thesis_DualUKF-SMA
+This repository contains the Matlab and Simulink files for Honours thesis completed at the University of Sydney.
+The thesis is available from https://www.researchgate.net/publication/336730812_Unscented_Kalman_Filter_based_Self-sensing_Control_of_Shape_Memory_Alloy_Actuator
 
 Abstract:
 A shape memory alloy actuator is widely used in various engineering fields due to its large force-to-weight ratio, 
